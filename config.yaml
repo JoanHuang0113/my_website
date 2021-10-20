@@ -51,12 +51,12 @@ params:
      # - icon: fa-instagram
      #   label: Instagram
      #   url: https://www.instagram.com
-      #- icon: fa-github
-       # label: GitHub
-        #url: https://www.github.com
-      #- icon: fa-linkedin
-       # label: LinkedIn
-        #url: https://www.linkedin.com
+      - icon: fa-github
+        label: GitHub
+        url: https://github.com/JoanHuang0113
+      - icon: fa-linkedin
+        label: LinkedIn
+        url: www.linkedin.com/in/joan-dhuang
   image: ''
   name: Your name
   navigation:
@@ -87,7 +87,7 @@ params:
         url: blogs/risk_return
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
-        title: Tempus
+        title: Homework1
         url: blogs/Homework1
       - image: pic03.jpg
         subtitle: Lorem Etiam Nullam
