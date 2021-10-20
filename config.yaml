@@ -117,6 +117,3 @@ params:
     title: Massa libero
     url: blogs
 
-knitr::include_graphics("/img/pic1.jpg",error =FALSE)
-
-brexit_results <- read_csv(here::here("data","brexit_results.csv"))
