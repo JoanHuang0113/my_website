@@ -85,13 +85,9 @@ params:
         subtitle: Ipsum Dolor Sit Amet
         title: Secret Place
         url: blogs/risk_return
-      - image: pic02.jpg
-        subtitle: Feugiat Amet Tempus
-        title: Homework1
-        url: blogs/Homework1
-      - image: pic03.jpg
+      - image: pic11.jpg
         subtitle: Lorem Etiam Nullam
-        title: Magna
+        title: LOL
         url: blogs/magna
       - image: pic04.jpg
         subtitle: Nisl Sed Aliquam
@@ -105,6 +101,10 @@ params:
         subtitle: Feugiat Amet Tempus
         title: Etiam
         url: blogs/ipsum
+      - image: pic02.jpg
+        subtitle: Feugiat Amet Tempus
+        title: Homework1
+        url: blogs/Homework1
   two:
     buttonText: Get Started
     enable: yes
