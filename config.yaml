@@ -89,17 +89,17 @@ params:
         subtitle: Lorem Etiam Nullam
         title: LOL
         url: blogs/magna
-      - image: pic04.jpg
+      #- image: pic04.jpg
         subtitle: Nisl Sed Aliquam
         title: Ipsum
         url: blogs/ipsum
-      - image: pic05.jpg
+      #- image: pic05.jpg
         subtitle: Ipsum Dolor Sit Amet
         title: Consequat
         url: blogs/ipsum
-      - image: pic06.jpg
+      #- image: pic06.jpg
         subtitle: Feugiat Amet Tempus
-        title: Etiam
+        title: DOTA
         url: blogs/ipsum
       - image: pic02.jpg
         subtitle: Feugiat Amet Tempus
